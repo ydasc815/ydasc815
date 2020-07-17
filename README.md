@@ -1,5 +1,7 @@
 ## Hi there 👋 
 
+<img src="https://github.com/ydasc815/ydasc815/blob/master/Group%201%402x.png" width="460" height="400" align="right">
+
 - 🔭 I’m currently working on my <B>Competitive Programming Skills</B>.
 - 🌱 I’m currently learning <B>Android Development</B> using <B>Kotlin</B>.
 - 👯 I’m looking to collaborate with <B>Open Source Projects</B> in <i>Android Dev. using Kotlin</i>.
