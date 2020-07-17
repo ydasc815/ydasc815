@@ -11,4 +11,5 @@
 - ⚡ Fun fact: I <B>think</B> that I can make good apps. 😄
 
 ### About Me
-I am a fast learner who is currently exploring different domains of software development with my main interests in <B>Android Development</B> and <B>Designing User Interfaces</B>.  I believe, a beautiful UI is the core of any software that is being developed apart from its code. I am also trying my hands hard on my <B>Problem Solving Skills</B> so as to develop <i>fast and efficent</i> working solutions for the apps I'll develop in future. My best work till now can be found in the pinned repositories below.
+I am a fast learner who is currently exploring different domains of software development with my main interests in <B>Android Development</B> and <B>Designing User Interfaces</B>.  I believe, a beautiful UI is the core of any software that is being developed apart from its code. I am also trying my hands hard on my <B>Problem Solving Skills</B> so as to develop <i>fast and efficent</i> working solutions for the apps I'll develop in future. 
+My best work till now can be found in the pinned repositories below.
