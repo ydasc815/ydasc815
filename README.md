@@ -15,4 +15,8 @@ I'm Aditya 💀. I'm a pre-final year CS Undergrad from Delhi 🐣. I love to ex
 - 😬 Fun-Fact: I *think* I can make fairly good designs.
 - 📫 Reach out to me at: icgadi99@gmail.com
 
+![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=ydasc815&show_icons=true&theme=buefy&count_private="true"&hide=issues,stars) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ydasc815&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
 <img width="100%" height="224dp" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
