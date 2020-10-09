@@ -17,6 +17,6 @@ I'm Aditya 💀. I'm a pre-final year CS Undergrad from Delhi 🐣. I love to ex
 
 ## <img height="44dp" src="https://github.com/ydasc815/ydasc815/blob/master/stats.svg" align="center"/> Developer Statistics </>
 
-![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=ydasc815&show_icons=true&theme=buefy&count_private="true"&hide_border=true&hide=issues,stars)
+![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=ydasc815&show_icons=true&theme=buefy&count_private="true"&hide_border=true&hide=issues,stars) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ydasc815&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <img width="100%" height="228dp" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
