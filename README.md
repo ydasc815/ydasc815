@@ -17,8 +17,7 @@ I'm Aditya 💀. I'm a pre-final year CS Undergrad from Delhi 🐣. I love to ex
 
 ## <img height="44dp" src="https://github.com/ydasc815/ydasc815/blob/master/stats.svg" align="center"/> Developer Statistics </>
 
-<img width="50%" height="240dp" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=ydasc815&show_icons=true&theme=buefy&count_private="true"&card_width="50%"&hide=issues,stars) <br/>
+![Aditya's Github Stats](https://github-readme-stats.vercel.app/api?username=ydasc815&show_icons=true&theme=buefy&count_private="true"&card_width="50%"&hide=issues,stars) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ydasc815&repo=mentorship-android)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ydasc815&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<img width="100%" height="240dp" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
