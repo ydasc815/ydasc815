@@ -9,7 +9,7 @@ I'm Aditya 💀. I'm a pre-final year CS Undergrad from Delhi 🐣. I love to ex
 **Something about me:**
 - 💻 I’m currently working on my **Data Structure & Algorithm** skills.
 - 🌱 I’m currently learning **Native Android Development in Kotlin**.
-- 👯 I’m looking to collaborate on Android based Open Source Projects.
+- 👬 I’m looking to collaborate on Android based Open Source Projects.
 - 🌜 I'm a **UI Designer** with a little experience in *UX Research*.
 - 💬 You can AMA anytime. I'll be happy to help you out!
 - 😬 Fun-Fact: I *think* that I can make fairly good designs.
