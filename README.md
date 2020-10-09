@@ -12,7 +12,7 @@ I'm Aditya 💀. I'm a pre-final year CS Undergrad from Delhi 🐣. I love to ex
 - 👯 I’m looking to collaborate on Android based Open Source Projects.
 - 🌜 I'm a **UI Designer** with a little experience in *UX Research*.
 - 💬 You can AMA anytime. I'll be happy to help you out!
-- 😬 Fun-Fact: I *think* I can make fairly good designs.
+- 😬 Fun-Fact: I *think* that I can make fairly good designs.
 - 📫 Reach out to me at: icgadi99@gmail.com
 
 ## <img height="44dp" src="https://github.com/ydasc815/ydasc815/blob/master/stats.svg" align="center"/> Developer Statistics </>
