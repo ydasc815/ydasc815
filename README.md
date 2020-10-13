@@ -15,7 +15,7 @@ I'm Aditya 💀. I'm a pre-final year CS Undergrad from Delhi 🐣. I love to ex
 - 😬 Fun-Fact: I *think* that I can make fairly good designs.
 - 📫 Reach out to me at: icgadi99@gmail.com
 
-**Communities I'm Contributing to:**
+**Communities:**
 - 📍 Developer Student Clubs KIET - powered by Google Developers
 - 📍 Anitab.Org Open Source
 - 📍 FOSSASIA Open Source
