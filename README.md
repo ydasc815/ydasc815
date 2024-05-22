@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/this.is.adiii)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:icgadi99@gmail.com)
 
-I'm Aditya 💀. Currently working as Software Engineer at Lowe's. I love to explore and try out new things 🚀. <b>
+I'm Aditya 💀. Currently working as Software Engineer at Lowe's. I love to explore and try out new things 🚀. <br>
 My Core Areas of Interest include but are not limited to Software Systems Design, Algorithm Development, Cloud and Self-Hosted Infrastructure and Devops.
 
 ## <img height="44dp" src="https://github.com/ydasc815/ydasc815/blob/master/stats.svg" align="center"/> Developer Statistics </>
